@@ -28,7 +28,7 @@ API Documentation
 
 ## Architecture and Project Image
 
-[Arhitecture](3-tIer-Arhitecture.png)
+![Arhitecture](3-tIer-Arhitecture.png)
 ---------
-[Demo_Pic](shot.png)
+![Demo_Pic](shot.png)
 
