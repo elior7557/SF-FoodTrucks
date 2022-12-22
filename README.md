@@ -14,7 +14,7 @@ git clone https://github.com/elior7557/SF-FoodTrucks.git
 ```
 Navigate to the project directory: 
 ```
-cd  SF-FoodTrucks
+cd SF-FoodTrucks
 ```
 Build the Docker image And Start the containers: 
 ```
