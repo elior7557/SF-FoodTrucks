@@ -10,7 +10,7 @@ This is a fun application built by Prakhar Srivastav to accompany the docker cur
 ------------------------
 Clone the repository: 
 ```
-git clone https://github.com/[user]/sf-food.git
+git clone https://github.com/elior7557/SF-FoodTrucks.git
 ```
 Navigate to the project directory: 
 ```
